@@ -1,0 +1,10 @@
+.has-copy-button code {
+    white-space: break-spaces!important;
+}
+
+.copy-button {
+    position: absolute; 
+    top: 0; 
+    right: 0; 
+    margin: 8px;
+}
